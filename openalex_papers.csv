@@ -1,0 +1,101 @@
+title,year,citations,doi,primary_topic
+"Machine learning: Trends, perspectives, and prospects",2015,9706,https://doi.org/10.1126/science.aaa8415,Anomaly Detection Techniques and Applications
+TensorFlow: A system for large-scale machine learning,2016,8831,https://doi.org/10.48550/arxiv.1605.08695,Parallel Computing and Optimization Techniques
+Physics-informed machine learning,2021,6977,https://doi.org/10.1038/s42254-021-00314-5,Model Reduction and Neural Networks
+TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems,2016,9797,https://doi.org/10.48550/arxiv.1603.04467,Parallel Computing and Optimization Techniques
+Quantum machine learning,2017,4545,https://doi.org/10.1038/nature23474,Quantum Computing Algorithms and Architecture
+Federated Machine Learning,2019,5980,https://doi.org/10.1145/3298981,Privacy-Preserving Technologies in Data
+TensorFlow: a system for large-scale machine learning,2016,6365,https://doi.org/10.5555/3026877.3026899,Advanced Neural Network Applications
+Machine learning for molecular and materials science,2018,4659,https://doi.org/10.1038/s41586-018-0337-2,Machine Learning in Materials Science
+Machine Learning in Medicine,2019,4113,https://doi.org/10.1056/nejmra1814259,Machine Learning in Healthcare
+Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting,2015,6650,https://doi.org/10.48550/arxiv.1506.04214,Meteorological Phenomena and Simulations
+Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead,2019,9323,https://doi.org/10.1038/s42256-019-0048-x,Explainable Artificial Intelligence (XAI)
+Multimodal Machine Learning: A Survey and Taxonomy,2018,4376,https://doi.org/10.1109/tpami.2018.2798607,Music and Audio Processing
+Machine Learning in Medicine,2015,3468,https://doi.org/10.1161/circulationaha.115.001593,Machine Learning in Healthcare
+"Machine Learning: Algorithms, Real-World Applications and Research Directions",2021,5215,https://doi.org/10.1007/s42979-021-00592-x,Anomaly Detection Techniques and Applications
+Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms,2017,6100,https://doi.org/10.48550/arxiv.1708.07747,Advanced Neural Network Applications
+Machine Learning in Agriculture: A Review,2018,3123,https://doi.org/10.3390/s18082674,Smart Agriculture and AI
+Membership Inference Attacks Against Machine Learning Models,2017,4291,https://doi.org/10.1109/sp.2017.41,Privacy-Preserving Technologies in Data
+SoilGrids250m: Global gridded soil information based on machine learning,2017,4741,https://doi.org/10.1371/journal.pone.0169748,Soil Geostatistics and Mapping
+Machine learning and deep learning,2021,2529,https://doi.org/10.1007/s12525-021-00475-2,Big Data and Digital Economy
+MoleculeNet: a benchmark for molecular machine learning,2017,3025,https://doi.org/10.1039/c7sc02664a,Computational Drug Discovery Methods
+Towards A Rigorous Science of Interpretable Machine Learning,2017,3166,https://doi.org/10.48550/arxiv.1702.08608,Explainable Artificial Intelligence (XAI)
+Understanding Machine Learning: From Theory To Algorithms,2015,3092,https://doi.org/10.1017/cbo9781107298019,Machine Learning and Algorithms
+Applications of machine learning in drug discovery and development,2019,3048,https://doi.org/10.1038/s41573-019-0024-5,Computational Drug Discovery Methods
+Machine Learning for Fluid Mechanics,2019,2686,https://doi.org/10.1146/annurev-fluid-010719-060214,Model Reduction and Neural Networks
+Machine Learning Algorithms - A Review,2020,2482,https://doi.org/10.21275/art20203995,Artificial Intelligence in Healthcare
+ilastik: interactive machine learning for (bio)image analysis,2019,3667,https://doi.org/10.1038/s41592-019-0582-9,Cell Image Analysis Techniques
+On hyperparameter optimization of machine learning algorithms: Theory and practice,2020,3187,https://doi.org/10.1016/j.neucom.2020.07.061,Machine Learning and Data Classification
+Machine learning and the physical sciences,2019,2462,https://doi.org/10.1103/revmodphys.91.045002,Machine Learning in Materials Science
+"Predicting the Future — Big Data, Machine Learning, and Clinical Medicine",2016,3562,https://doi.org/10.1056/nejmp1606181,Artificial Intelligence in Healthcare
+Practical Black-Box Attacks against Machine Learning,2017,3510,https://doi.org/10.1145/3052973.3053009,Adversarial Robustness in Machine Learning
+A guide to machine learning for biologists,2021,2114,https://doi.org/10.1038/s41580-021-00407-0,Machine Learning in Bioinformatics
+Explainable AI: A Review of Machine Learning Interpretability Methods,2020,2809,https://doi.org/10.3390/e23010018,Explainable Artificial Intelligence (XAI)
+Practical Secure Aggregation for Privacy-Preserving Machine Learning,2017,3522,https://doi.org/10.1145/3133956.3133982,Privacy-Preserving Technologies in Data
+Automatic differentiation in machine learning: a survey,2015,2097,,Gaussian Processes and Bayesian Inference
+How the machine ‘thinks’: Understanding opacity in machine learning algorithms,2016,2558,https://doi.org/10.1177/2053951715622512,Ethics and Social Impacts of AI
+Empirical Asset Pricing via Machine Learning,2020,2317,https://doi.org/10.1093/rfs/hhaa009,Financial Markets and Investment Strategies
+Machine learning applications in genetics and genomics,2015,2077,https://doi.org/10.1038/nrg3920,Gene expression and cancer classification
+Introduction to Machine Learning,2019,1659,https://doi.org/10.1142/9789811201967_0001,Neural Networks and Applications
+Introduction to Machine Learning,2019,1620,https://doi.org/10.1007/978-3-030-10546-4_1,Anomaly Detection Techniques and Applications
+Machine Learning: An Applied Econometric Approach,2017,1917,https://doi.org/10.1257/jep.31.2.87,Impact of Light on Environment and Health
+Probabilistic machine learning and artificial intelligence,2015,1999,https://doi.org/10.1038/nature14541,Gaussian Processes and Bayesian Inference
+Applications of machine learning to machine fault diagnosis: A review and roadmap,2020,2750,https://doi.org/10.1016/j.ymssp.2019.106587,Machine Fault Diagnosis Techniques
+A Survey of Data Mining and Machine Learning Methods for Cyber Security Intrusion Detection,2015,3142,https://doi.org/10.1109/comst.2015.2494502,Network Security and Intrusion Detection
+Feature selection in machine learning: A new perspective,2018,2073,https://doi.org/10.1016/j.neucom.2017.11.077,Gene expression and cancer classification
+"Definitions, methods, and applications in interpretable machine learning",2019,2107,https://doi.org/10.1073/pnas.1900654116,Explainable Artificial Intelligence (XAI)
+Deep learning,2015,82563,https://doi.org/10.1038/nature14539,Generative Adversarial Networks and Image Synthesis
+Recent advances and applications of machine learning in solid-state materials science,2019,2434,https://doi.org/10.1038/s41524-019-0221-0,Machine Learning in Materials Science
+Double/debiased machine learning for treatment and structural parameters,2017,2578,https://doi.org/10.1111/ectj.12097,Statistical Methods and Inference
+Automated Machine Learning,2019,1424,https://doi.org/10.1007/978-3-030-05318-5,Machine Learning and Data Classification
+Statistics versus machine learning,2018,1509,https://doi.org/10.1038/nmeth.4642,Neural Networks and Applications
+Machine Learning Interpretability: A Survey on Methods and Metrics,2019,1783,https://doi.org/10.3390/electronics8080832,Explainable Artificial Intelligence (XAI)
+Machine learning phases of matter,2017,1481,https://doi.org/10.1038/nphys4035,Machine Learning in Materials Science
+Machine Learning Identifies Stemness Features Associated with Oncogenic Dedifferentiation,2018,2371,https://doi.org/10.1016/j.cell.2018.03.034,Cancer Genomics and Diagnostics
+All-optical machine learning using diffractive deep neural networks,2018,2477,https://doi.org/10.1126/science.aat8084,Neural Networks and Reservoir Computing
+Trainable Weka Segmentation: a machine learning tool for microscopy pixel classification,2017,2504,https://doi.org/10.1093/bioinformatics/btx180,Advanced Electron Microscopy Techniques and Applications
+Implementation of machine-learning classification in remote sensing: an applied review,2018,1975,https://doi.org/10.1080/01431161.2018.1433343,Remote-Sensing Image Classification
+Big Data and Machine Learning in Health Care,2018,2205,https://doi.org/10.1001/jama.2017.18391,Genetic Associations and Epidemiology
+Quantum Machine Learning in Feature Hilbert Spaces,2019,1706,https://doi.org/10.1103/physrevlett.122.040504,Quantum Computing Algorithms and Architecture
+SecureML: A System for Scalable Privacy-Preserving Machine Learning,2017,1859,https://doi.org/10.1109/sp.2017.12,Privacy-Preserving Technologies in Data
+Foundations of Machine Learning,2019,1159,https://doi.org/10.2139/ssrn.3399990,Advanced Data Processing Techniques
+Proceedings of The 32nd International Conference on Machine Learning,2015,2039,,Gaussian Processes and Bayesian Inference
+XGBoost,2016,49881,https://doi.org/10.1145/2939672.2939785,Machine Learning and Data Classification
+Machine Learning for Medical Imaging,2017,1649,https://doi.org/10.1148/rg.2017160130,AI in cancer detection
+Techniques for interpretable machine learning,2019,1251,https://doi.org/10.1145/3359786,Explainable Artificial Intelligence (XAI)
+Machine learning in materials informatics: recent applications and prospects,2017,1796,https://doi.org/10.1038/s41524-017-0056-5,Machine Learning in Materials Science
+A Review of Relational Machine Learning for Knowledge Graphs,2015,1662,https://doi.org/10.1109/jproc.2015.2483592,Advanced Graph Neural Networks
+Tensor Decomposition for Signal Processing and Machine Learning,2017,1614,https://doi.org/10.1109/tsp.2017.2690524,Tensor decomposition and applications
+Machine learning methods for solar radiation forecasting: A review,2017,1740,https://doi.org/10.1016/j.renene.2016.12.095,Solar Radiation and Photovoltaics
+Explainable machine-learning predictions for the prevention of hypoxaemia during surgery,2018,2022,https://doi.org/10.1038/s41551-018-0304-0,Artificial Intelligence in Healthcare and Education
+Choosing Prediction Over Explanation in Psychology: Lessons From Machine Learning,2017,2019,https://doi.org/10.1177/1745691617693393,Mental Health Research Topics
+Effective Heart Disease Prediction Using Hybrid Machine Learning Techniques,2019,1905,https://doi.org/10.1109/access.2019.2923707,Artificial Intelligence in Healthcare
+Machine-learning-assisted materials discovery using failed experiments,2016,1733,https://doi.org/10.1038/nature17439,Machine Learning in Materials Science
+Comparing different supervised machine learning algorithms for disease prediction,2019,1646,https://doi.org/10.1186/s12911-019-1004-8,Artificial Intelligence in Healthcare
+Machine learning in medicine: a practical introduction,2019,1282,https://doi.org/10.1186/s12874-019-0681-4,AI in cancer detection
+Machine learning algorithm validation with a limited sample size,2019,1736,https://doi.org/10.1371/journal.pone.0224365,Gene expression and cancer classification
+A general-purpose machine learning framework for predicting properties of inorganic materials,2016,1731,https://doi.org/10.1038/npjcompumats.2016.28,Machine Learning in Materials Science
+Combining satellite imagery and machine learning to predict poverty,2016,1663,https://doi.org/10.1126/science.aaf7894,Impact of Light on Environment and Health
+MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems,2015,1921,https://doi.org/10.48550/arxiv.1512.01274,Advanced Memory and Neural Computing
+Efficient and robust automated machine learning,2015,1261,,Machine Learning and Data Classification
+Aleatoric and epistemic uncertainty in machine learning: an introduction to concepts and methods,2021,1522,https://doi.org/10.1007/s10994-021-05946-3,Adversarial Robustness in Machine Learning
+Implementing Machine Learning in Health Care — Addressing Ethical Challenges,2018,1676,https://doi.org/10.1056/nejmp1714229,Artificial Intelligence in Healthcare and Education
+An Introduction to Machine Learning,2015,1019,https://doi.org/10.1007/978-3-319-20010-1,"Genetics, Bioinformatics, and Biomedical Research"
+Perspective: Machine learning potentials for atomistic simulations,2016,1508,https://doi.org/10.1063/1.4966192,Machine Learning in Materials Science
+"Majorization-Minimization Algorithms in Signal Processing, Communications, and Machine Learning",2016,1754,https://doi.org/10.1109/tsp.2016.2601299,Sparse and Compressive Sensing Techniques
+Inverse molecular design using machine learning: Generative models for matter engineering,2018,2093,https://doi.org/10.1126/science.aat2663,Machine Learning in Materials Science
+Crop yield prediction using machine learning: A systematic literature review,2020,1745,https://doi.org/10.1016/j.compag.2020.105709,Smart Agriculture and AI
+Federated Optimization: Distributed Machine Learning for On-Device Intelligence,2016,1655,https://doi.org/10.48550/arxiv.1610.02527,Stochastic Gradient Optimization Techniques
+TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods,2024,2496,https://doi.org/10.1136/bmj-2023-078378,Artificial Intelligence in Healthcare and Education
+"Machine learning in manufacturing: advantages, challenges, and applications",2016,1268,https://doi.org/10.1080/21693277.2016.1192517,Industrial Vision Systems and Defect Detection
+Machine Learning and Data Mining Methods in Diabetes Research,2017,1430,https://doi.org/10.1016/j.csbj.2016.12.005,Artificial Intelligence in Healthcare
+Interpretable machine learning,2020,992,https://doi.org/10.58248/pn633,Explainable Artificial Intelligence (XAI)
+Classification Based on Decision Tree Algorithm for Machine Learning,2021,1839,https://doi.org/10.38094/jastt20165,Machine Learning and Data Classification
+Introduction to machine learning: k-nearest neighbors,2016,1270,https://doi.org/10.21037/atm.2016.03.37,Anomaly Detection Techniques and Applications
+Machine Learning and Deep Learning Methods for Cybersecurity,2018,1204,https://doi.org/10.1109/access.2018.2836950,Network Security and Intrusion Detection
+Machine learning in materials science,2019,1019,https://doi.org/10.1002/inf2.12028,Machine Learning in Materials Science
+Machine learning for combinatorial optimization: A methodological tour d'horizon,2021,1364,https://doi.org/10.1016/j.ejor.2020.07.063,Scheduling and Optimization Algorithms
+Materials discovery and design using machine learning,2017,1241,https://doi.org/10.1016/j.jmat.2017.08.002,Machine Learning in Materials Science
+Big data and machine learning algorithms for health-care delivery,2019,1442,https://doi.org/10.1016/s1470-2045(19)30149-4,Artificial Intelligence in Healthcare and Education
+Machine Learning,2021,786,https://doi.org/10.1007/978-981-15-1967-3,Internet of Things and AI
+Hyperparameter Optimization for Machine Learning Models Based on Bayesian Optimization,2019,1421,https://doi.org/10.11989/jest.1674-862x.80904120,Machine Learning and Data Classification
